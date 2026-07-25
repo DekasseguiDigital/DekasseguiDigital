@@ -4,7 +4,7 @@
 
 ### Founder • Dekassegui Digital 🇯🇵
 
-<img src="https://raw.githubusercontent.com/DekasseguiDigital/dekassegui-digital-playbook/main/assets/branding/banners/github-banner.png" width="100%">
+<img src="./assets/github-banner.png" width="100%">
 
 <br>
 
@@ -42,7 +42,7 @@ Meu principal projeto é o **DDOS (Dekassegui Digital Operating System)**, uma d
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DekasseguiDigital/dekassegui-digital-playbook/main/assets/branding/mascot/kaizen-default.png" width="220">
+<img src="./assets/kaizen-default.png" width="220">
 
 </div>
 
