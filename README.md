@@ -59,6 +59,8 @@ Sua missão é acompanhar toda a documentação do projeto e representar a filos
 
 👉 **Leia a história completa:** [KAIZEN.md](KAIZEN.md)
 
+
+🐕 Kaizen diz:
 > **"Cada commit pode ser melhor que o anterior."**
 > 
 
