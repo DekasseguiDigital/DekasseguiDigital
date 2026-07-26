@@ -95,6 +95,18 @@ Criar um ecossistema onde qualquer desenvolvedor — humano ou IA — consiga co
 
 ---
 
+# Regra de Ouro
+
+Todo projeto desenvolvido seguindo o DDOS deve permanecer editável por outro desenvolvedor utilizando preferencialmente os recursos nativos da plataforma.
+
+Nenhuma solução técnica deve dificultar a manutenção humana apenas por ser mais rápida de implementar.
+
+Se um recurso puder ser resolvido pelo Elementor, WordPress ou pela plataforma utilizada, essa será sempre a primeira escolha.
+
+CSS, JavaScript ou código personalizado somente quando forem realmente necessários e devidamente documentados.
+
+---
+
 **Document. Automate. Improve.**
 
 改善
