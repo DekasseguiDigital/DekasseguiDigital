@@ -70,21 +70,35 @@ Sua missão é acompanhar toda a documentação do projeto e representar a filos
 
 ---
 
-# 💻 Tecnologias
+## 💻 Stack Tecnológica
+
+### CMS
 
 - WordPress
 - Elementor
-- PHP
-- JavaScript
+
+### Front-end
+
 - HTML
 - CSS
+- JavaScript
+
+### Back-end
+
+- PHP
+- Python
+
+### DevOps
+
 - Git
 - GitHub
-- Python
-- Inteligência Artificial
+
+### Especialidades
+
 - SEO
 - Performance
 - UX/UI
+- Inteligência Artificial
 
 ---
 
@@ -176,7 +190,6 @@ Mais estudos de caso serão adicionados conforme novos projetos forem concluído
 >
 > O objetivo é documentar processos, reduzir retrabalho e preservar conhecimento para acelerar os próximos projetos.
 
-# 📂 Projetos
 
 ### 🚀 DDOS
 
@@ -208,7 +221,17 @@ Transformar experiência em conhecimento.
 
 # 📫 Contato
 
-🌐 https://dekasseguidigital.com
+🌐 Website
+
+https://dekasseguidigital.com
+
+💼 GitHub
+
+https://github.com/DekasseguiDigital
+
+📧 Em breve
+
+Mais canais serão adicionados conforme o ecossistema evolui.
 
 ---
 
