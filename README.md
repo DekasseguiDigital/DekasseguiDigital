@@ -55,7 +55,12 @@ Inspirado no **Akita Inu**, representa:
 - ⚙️ Disciplina
 - 🚀 Evolução Contínua
 
+Sua missão é acompanhar toda a documentação do projeto e representar a filosofia de melhoria contínua.
+
+👉 **Leia a história completa:** [KAIZEN.md](KAIZEN.md)
+
 > **"Cada commit pode ser melhor que o anterior."**
+> 
 
 ---
 
