@@ -241,4 +241,6 @@ Mais canais serão adicionados conforme o ecossistema evolui.
 
 ### *Document. Automate. Evolve.*
 
+Building better projects, one iteration at a time.
+
 </div>
