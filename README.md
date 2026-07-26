@@ -3,7 +3,7 @@
 ### Founder • Dekassegui Digital JP
 
 <p align="center">
-  <img src="assets/ddos-banner.png" alt="DDOS - Dekassegui Digital Operating System" width="100%">
+  <img src="assets/github-banner.png" alt="DDOS - Dekassegui Digital Operating System" width="100%">
 </p>
 
 <p align="center">
