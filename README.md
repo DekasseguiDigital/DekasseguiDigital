@@ -131,6 +131,23 @@ Após a entrega, as experiências, soluções e aprendizados são documentados e
 
 ---
 
+## 🔌 DD Smart WhatsApp
+
+**Plugin WordPress para botões inteligentes de WhatsApp, ações flutuantes e análise de interações.**
+
+- Plugin WordPress open source
+- Smart Floating Actions
+- Botões personalizados de WhatsApp
+- Painel de Analytics
+- Compatibilidade com Elementor
+- Interface responsiva
+- Sistema de atualização via GitHub Releases
+- Arquitetura preparada para futuras versões PRO
+
+🔗 [Ver repositório no GitHub](https://github.com/DekasseguiDigital/DD-Smart-WhatsApp)
+
+---
+
 ## 🇯🇵 JK Fukuoka Tour
 
 **Landing Page Multilíngue para Turismo no Japão**
