@@ -1,8 +1,10 @@
 # 🎓 Dekassegui Cursos
 
-## Cliente
+## Projeto
 
-Dekassegui Digital
+Dekassegui Cursos
+
+**Proprietário:** Dekassegui Digital
 
 Site:
 https://cursos.sitemodelo.store/

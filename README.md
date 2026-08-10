@@ -160,7 +160,7 @@ Após a entrega, as experiências, soluções e aprendizados são documentados e
 
 📂 Estudo de caso:
 
-➡️ [`case-studies/cursos-sitemodelo-store.md`](case-studies/cursos-sitemodelo-store.md)
+➡️ [`case-studies/dekassegui-cursos.md`](case-studies/dekassegui-cursos.md)
 
 ---
 
