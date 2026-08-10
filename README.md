@@ -181,6 +181,23 @@ Após a entrega, as experiências, soluções e aprendizados são documentados e
 
 ---
 
+## 🚗 Dekassegui Auto
+
+**Projeto interno utilizado como ambiente demonstrativo para catálogo automotivo com conteúdo estruturado.**
+
+- Projeto interno / demonstrativo
+- WordPress + Elementor Pro
+- Advanced Custom Fields (ACF)
+- Post type estruturado para carros
+- Taxonomias para organização automotiva
+- Apresentação reutilizável via Elementor Loop
+
+📂 Estudo de caso:
+
+➡️ [`case-studies/dekassegui-auto.md`](case-studies/dekassegui-auto.md)
+
+---
+
 ## 🇯🇵 JK Fukuoka Tour
 
 **Landing Page Multilíngue para Turismo no Japão**
