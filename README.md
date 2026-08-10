@@ -148,6 +148,22 @@ Após a entrega, as experiências, soluções e aprendizados são documentados e
 
 ---
 
+## 🎓 Dekassegui Cursos
+
+**Produto interno da Dekassegui Digital para plataforma de cursos online voltada a brasileiros no Japão.**
+
+- Produto interno
+- WordPress + Elementor
+- Cursos online
+- Foco em brasileiros no Japão
+- Base de aprendizado para futura arquitetura educacional white label
+
+📂 Estudo de caso:
+
+➡️ [`case-studies/cursos-sitemodelo-store.md`](case-studies/cursos-sitemodelo-store.md)
+
+---
+
 ## 🇯🇵 JK Fukuoka Tour
 
 **Landing Page Multilíngue para Turismo no Japão**
