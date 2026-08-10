@@ -164,6 +164,23 @@ Após a entrega, as experiências, soluções e aprendizados são documentados e
 
 ---
 
+## 🍕 Dekassegui Pizzaria
+
+**Projeto interno utilizado como ambiente demonstrativo para soluções digitais voltadas a pizzarias, lanchonetes e delivery.**
+
+- Projeto interno / demonstrativo
+- WordPress + Elementor
+- LiteSpeed Cache
+- GTranslate
+- Dekassegui Delivery Menu
+- Carrinho e pedido relacionado ao WhatsApp
+
+📂 Estudo de caso:
+
+➡️ [`case-studies/dekassegui-pizzaria.md`](case-studies/dekassegui-pizzaria.md)
+
+---
+
 ## 🇯🇵 JK Fukuoka Tour
 
 **Landing Page Multilíngue para Turismo no Japão**
