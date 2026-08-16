@@ -198,6 +198,23 @@ Após a entrega, as experiências, soluções e aprendizados são documentados e
 
 ---
 
+## 🧾 Kojin Tax
+
+**SaaS fiscal para autônomos (個人事業主) no Japão, com foco em organização financeira e apoio à preparação do Kakutei Shinkoku.**
+
+- Aplicação SaaS própria da Dekassegui Digital
+- React 19 + Vite + TypeScript
+- Node.js + Express
+- tRPC
+- Drizzle ORM + MySQL
+- Integração com Stripe
+- Relatórios e gestão de receitas/despesas
+- Arquitetura preparada para futura portabilidade via GitHub e deploy em ambiente Node.js próprio
+
+🔒 Repositório privado: `DekasseguiDigital/kojin-tax-app`
+
+---
+
 ## 🇯🇵 JK Fukuoka Tour
 
 **Landing Page Multilíngue para Turismo no Japão**
