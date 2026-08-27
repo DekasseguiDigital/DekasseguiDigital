@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Document. Automate. Improve.</em>
+  <em>Document. Automate. Evolve.</em>
 </p>
 
 <p align="center">
@@ -36,6 +36,8 @@ Atuo principalmente com:
 - Automação
 
 Meu principal projeto é o **DDOS (Dekassegui Digital Operating System)**, um sistema vivo de documentação criado para transformar conhecimento adquirido em projetos reais em processos reutilizáveis.
+
+Dentro desse ecossistema nasceu o **DekaLM**, nosso projeto de IA local especializada para o DDOS. O Pilot v0.1 já completou o ciclo de dataset, fine-tuning, merge, conversão GGUF, quantização, inferência local e integração com GitHub MCP.
 
 O objetivo não é apenas entregar sites.
 
@@ -93,6 +95,15 @@ Sua missão é acompanhar toda a documentação do projeto e representar a filos
 - Git
 - GitHub
 
+### IA local e agentes
+
+- Qwen3
+- LLaMA-Factory
+- llama.cpp / GGUF
+- LM Studio
+- MCP
+- Fine-tuning QLoRA / LoRA
+
 ### Especialidades
 
 - SEO
@@ -128,6 +139,31 @@ Cada diretório possui um propósito específico.
 Cada projeto desenvolvido fortalece o DDOS.
 
 Após a entrega, as experiências, soluções e aprendizados são documentados e transformados em conhecimento reutilizável para os próximos projetos.
+
+---
+
+## 🧠 DekaLM — DDOS Local AI
+
+**Modelo local especializado para o Dekassegui Digital Operating System, desenvolvido para governança operacional, tool use, raciocínio grounded e workflows com MCP.**
+
+### Pilot v0.1 — marco validado
+
+- Base: `Qwen/Qwen3-4B-Instruct-2507`
+- Fine-tuning: QLoRA / LoRA com LLaMA-Factory 0.9.5
+- Treino piloto em Google Colab Free com Tesla T4
+- Dataset inicial com 3 exemplos comportamentais aprovados
+- Merge FP16 concluído
+- Conversão para GGUF concluída
+- Quantização `Q4_K_M` concluída
+- Runtime local validado no LM Studio
+- Integração Bionic + GitHub MCP validada
+- Tool calling real executado com retorno grounded do GitHub
+
+O piloto também demonstrou comportamentos centrais do DDOS, como **read-before-write**, exigência de autorização humana para escrita, uso de **NÃO DOCUMENTADO** quando a fonte não sustenta uma afirmação e recusa de premissas documentais inventadas.
+
+**Status atual:** prova de conceito funcional. A execução de tools está validada; a seleção autônoma da ferramenta correta ainda está em evolução.
+
+🔒 Repositório privado durante a fase de auditoria e evolução: `DekasseguiDigital/DekaLM`
 
 ---
 
