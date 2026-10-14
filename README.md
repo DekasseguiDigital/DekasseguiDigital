@@ -245,7 +245,16 @@ O piloto também demonstrou comportamentos centrais do DDOS, como **read-before-
 - Drizzle ORM + MySQL
 - Integração com Stripe
 - Relatórios e gestão de receitas/despesas
-- Arquitetura preparada para futura portabilidade via GitHub e deploy em ambiente Node.js próprio
+- Migração Manus → Hostinger concluída em outubro de 2026
+- Autenticação Auth0 e documentos preservados no Cloudflare R2
+- Aplicação funcionando no domínio oficial, com login antigo e novo cadastro validados
+- Evolução contínua com testes automatizados e controle de versões no GitHub
+
+🌐 [Acessar Kojin Tax](https://kojin-tax.dekasseguidigital.com/)
+
+📂 Estudo de caso:
+
+➡️ [`case-studies/kojin-tax.md`](case-studies/kojin-tax.md)
 
 🔒 Repositório privado: `DekasseguiDigital/kojin-tax-app`
 
